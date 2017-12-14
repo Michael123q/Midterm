@@ -1,0 +1,5 @@
+Name:Lopez,Michael John
+Age:20
+D.O.B:October 26 1997
+Address:Baan Km 3
+Gender:Male
