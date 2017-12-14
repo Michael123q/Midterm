@@ -1,1 +1,24 @@
-steps.txt
+Open github.com
+sign-in In Gitgub or Register
+creat repository 
+open your gitbush
+mkdir Lopez
+cd lopez
+git clone link of your repository in github
+cd your repository
+open your sublime
+create file and folder
+back to your gitbush
+git status
+git fetch
+git status
+git add .
+git commit -m"Your repository"
+git add .
+git status
+git fetch
+git status
+git pullo rigin master or git push origin master if your branch  is  ahead or behind
+
+
+
